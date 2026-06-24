@@ -1,10 +1,10 @@
-📊 PEXPO Retail Data Analysis
+📊 Retail Data Analysis
 
 A complete data analysis project focused on understanding sales performance and demand trends for PEXPO product lines using real-world retail sales data. This project demonstrates key skills in exploratory data analysis (EDA), data preprocessing, visualization, time-series forecasting, and actionable business insights.
 
 🧠 Project Objective
 
-To analyze retail sales data of PEXPO products and generate insights that can help improve:
+To analyze retail sales data of products and generate insights that can help improve:
 
 Product assortment decisions
 
@@ -91,7 +91,7 @@ Forecasting Results: Projected future sales for planning
 
 Clone the repository
 
-git clone https://github.com/A289shek2004/Pexpo_Retail_Data_Analysis
+git clone https://github.com/A289shek2004/Retail_Data_Analysis
 
 
 Install requirements
@@ -123,6 +123,6 @@ SQL querying and business analytics
 
 📍 Links
 
-GitHub: https://github.com/A289shek2004/Pexpo_Retail_Data_Analysis
+GitHub: https://github.com/A289shek2004/Retail_Data_Analysis
 
 Project Type: Retail Analytics / Forecasting / Dashboard Insights
